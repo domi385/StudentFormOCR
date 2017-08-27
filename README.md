@@ -1,1 +1,3 @@
-# StudentFormOCR
+#Localization and Recognition of Handwritten Student Scores
+When examining a large number of student exams, there is a need for an automatic system for localization and recognition of handwritten student scores.
+In this bachelor's thesis a system for localization and recognition of handwritten student scores has been analysed and implemented. The process consisted of form scanning, image processing, digit segmentation, digit classification and output file creation.
