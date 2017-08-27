@@ -1,0 +1,44 @@
+<training_input>
+	<dir>neural_dataset/0</dir>
+	<expected_output>0</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/1</dir>
+	<expected_output>1</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/2</dir>
+	<expected_output>2</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/3</dir>
+	<expected_output>3</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/4</dir>
+	<expected_output>4</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/5</dir>
+	<expected_output>5</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/6</dir>
+	<expected_output>6</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/7</dir>
+	<expected_output>7</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/8</dir>
+	<expected_output>8</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/9</dir>
+	<expected_output>9</expected_output>
+</training_input>
+<training_input>
+	<dir>neural_dataset/10</dir>
+	<expected_output>.</expected_output>
+</training_input>
